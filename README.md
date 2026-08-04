@@ -1,6 +1,6 @@
-# FamilyMart Technical Assessment - Internship Submission
 
-This repository contains my solutions for the FamilyMart Technical Assessment. I have completed the core mandatory Agentic AI task along with three elective tasks.
+
+This repository contains my exercise for internship.
 
 ## Project Structure & Quick Links
 * **[Task 5: LLM – Agentic AI](./task_5_agentic_ai/)** - Safety guardrail architecture.
