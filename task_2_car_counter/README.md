@@ -1,4 +1,4 @@
-# Task 2: Computer Vision – Highway Car Counter
+# Computer Vision Project – Highway Car Counter
 
 ## 1. Project Overview
 This sub-module contains a high-performance computer vision pipeline designed to detect, track, and count vehicles passing through a segment of a highway using video footage. 
