@@ -1,6 +1,6 @@
-# Task 3: Optical Character Recognition (OCR) – Deposit Extractor
+# Optical Character Recognition (OCR) Project – Deposit Extractor
 
-This sub-module contains an intelligent, production-grade text extraction engine engineered to parse transaction totals from digital and thermal banking receipts. 
+This sub-module contains an production-grade text extraction engine engineered to parse transaction totals from digital and thermal banking receipts. 
 
 Rather than relying on legacy, brittle character-matrix matching (like Tesseract) which frequently hallucinates values on low-resolution or skewed images, this solution utilizes a state-of-the-art Multimodal Vision-Language Pipeline.
 
