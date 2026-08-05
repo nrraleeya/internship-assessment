@@ -1,4 +1,4 @@
-# Task 5: LLM – Agentic AI (Safety & Reliability Architecture)
+# LLM – Agentic AI (Safety & Reliability Architecture) Project
 
 ## 1. System Architecture Overview
 This sub-module contains the zero-trust, deterministic validation engine designed to secure an autonomous retail inventory agent handling 500 stores.It actively mitigates hallucinations, stops out-of-bounds orders, and blocks unauthorized product procurement transactions.
