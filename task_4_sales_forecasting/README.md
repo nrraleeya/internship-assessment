@@ -1,4 +1,4 @@
-# Task 4: Time Series Sales Forecasting
+# Time Series Sales Forecasting Project
 
 This sub-module contains the production-grade predictive pipeline designed to forecast daily retail sales for the next 3 months across multiple store and item configurations. 
 
